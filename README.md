@@ -1,6 +1,5 @@
 # SOFT546
 ## Introduction
-Scan Drive Design
 Welcome to ASDB (AutoScanDriveBuggy) 
 Code takes into account:
 •	Safety Pre-warning Lights and Sounders 
