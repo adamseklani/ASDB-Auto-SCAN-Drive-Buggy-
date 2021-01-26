@@ -1,3 +1,4 @@
+![ASDB](https://user-images.githubusercontent.com/77336483/105859331-4d5c2a00-5fe4-11eb-9761-ecd9d22d27ad.jpeg)
 # SOFT546
 ## Introduction
 Welcome to ASDB (AutoScanDriveBuggy) 
@@ -39,5 +40,3 @@ Code
 Folder attached are :
 2 way distributed system code
 3 way distributed system code
-
-![](images/filename asdb.jpeg
