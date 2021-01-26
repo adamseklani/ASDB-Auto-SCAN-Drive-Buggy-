@@ -6,19 +6,8 @@ Code takes into account:
 •	Auto obstacle detection feature 
 •	Emergency Stop (Wired + Wireless)
 •	Scan Direction
-### Setup 
 
-CONTENTS OF THIS FILE
----------------------
-
- * Introduction
- * Starting the Buggy
- * Arduino to ESP32 Communication
- * Code
- * ESP CODE
- * Classes
-
-Introduction
+Project setup
 ----------------
 Project Setup 
 Steps needed to run the project 
@@ -44,3 +33,9 @@ Valid Command list : fscan rscan stop estop
 ARDUINO TO ESP COMMUNICATION
 ----------------
 We will use the serial port U2UXD to establish communcation between the ESP and arduihno via the RX and TX pins.
+
+Code
+----------------
+Folder attached are :
+2 way distributed system code
+3 way distributed system code
